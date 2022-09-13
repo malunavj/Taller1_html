@@ -1,0 +1,179 @@
+* {
+    
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-top: 12px;
+  font-family: 'Poppins', sans-serif;
+
+    }
+
+.principal {
+ 
+ margin-left: 60px;
+ margin-right: 60px;
+
+}
+
+.principal img {
+  margin: 0px;
+  
+}
+
+
+
+.imagenes-redes {
+  float: right;
+  margin: 0px;
+
+}
+
+.imagenes-redes img {
+    width: 70px;
+    margin: -3px
+}
+
+
+.nav {
+    
+    list-style-type: none;
+    text-align: right;
+    padding: 0;
+    position: relative;
+    margin-right: 0px;
+    margin-top: -55px;
+  }
+  
+  .nav a {
+    display: inline-block;
+    font-size: 17px;
+    padding: 10px;
+    margin: 0;
+    text-decoration: none;
+    
+
+  }
+
+ .imagencentral {
+  margin-top: 0px;
+ 
+ }
+
+ .imagencentral3 {
+  margin: 0px;
+  margin-bottom: 50px;
+ }
+
+ .imagencentral4 {
+  text-align: center;
+ }
+
+ .imagencentral5{
+margin: 0px;
+margin-top: -20px;
+ }
+
+ .imagencentral5 img {
+  margin: 10px;
+  
+ }
+
+ .imagencentral4 h2 {
+
+ color: rgb(23, 23, 114);
+ }
+
+ .imagencentral4 h3 {
+  color: rgb(82, 82, 85);
+  font-size: 22px;
+ }
+
+ .imagencentral7 {
+  text-align: center;
+  margin-bottom: 50px;
+ }
+ .imagencentral7 img {
+  margin: 10px;
+  
+ }
+
+
+.selection1 {
+  text-align: left;
+  grid-area: selection1;
+  margin-left: 20px;
+}
+
+.selection2 {
+  text-align: left;
+  grid-area: selection2;
+  margin-left: -10px;
+}
+
+.container {
+  display: grid;
+  grid-template:
+"selection1 selection2";
+margin-top: -20px;
+}
+
+.option1 {
+  width: 520px;
+  height: 30px;
+  margin-top: -20px;
+}
+
+ .cajatexto1 {
+  width: 520px;
+  height: 30px;
+  margin-top: -20px;
+  margin-left: -20px;
+}
+
+.texto1 {
+    margin-left: -20px;
+  }
+
+  .ovalos-principal{
+    margin-top: 40px;
+    
+  }
+
+  .ovalos {
+    display: inline-block;
+    margin: 0px;
+    margin-left: 20px;
+    padding: 0px;
+  }
+
+  .ovalos img {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+  }
+
+
+  .ovalos p {
+    text-align: center;
+    margin-left: 20px;
+    font-size: 30px;
+    color: grey;
+  }
+
+  .ovalos h3 {
+    text-align: center;
+    font-size: 15px;
+    color: grey;
+    margin: -30px;
+  }
+
+  img:hover {
+    cursor:pointer;
+  }
+
+
+
+
+
+
+
+
